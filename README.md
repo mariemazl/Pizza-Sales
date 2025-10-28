@@ -1,5 +1,5 @@
 Project Overview
-This project focuses on analyzing pizza sales data to uncover insights into sales performance, customer behavior, and business trends. It combines SQL for data analysis, Excel for data exploration and cleaning, and Power BI for interactive visualization and reporting.
+This project focuses on analyzing pizza sales data to uncover insights into sales performance, customer behavior, and business trends. It combines SQL for data analysis, power query for data exploration and cleaning, and Power BI for interactive visualization and reporting.
 Dataset
 The dataset (pizza_sales_excel_file.xlsx) contains detailed sales information, including:
 •	Order Date & Time
