@@ -1,7 +1,7 @@
-Project Overview
+Project Overview:
 This project focuses on analyzing pizza sales data to uncover insights into sales performance. It combines SQL for data analysis, power query for data exploration and cleaning, and Power BI for interactive visualization and reporting.
 
-Dataset
+Dataset:
 The dataset (pizza_sales_excel_file.xlsx) contains detailed sales information, including:
 •	Order Date & Time
 •	Pizza Category and Size
@@ -9,7 +9,7 @@ The dataset (pizza_sales_excel_file.xlsx) contains detailed sales information, i
 •	Quantity Ordered
 •	Total Price per Order
 
- Objectives
+ Objectives:
 The main goals of this project are:
 * To calculate and visualize key business metrics such as:
 •	Total Revenue
@@ -21,7 +21,7 @@ The main goals of this project are:
 *	To analyze sales performance by pizza category and size.
 * To determine the best and worst-selling pizzas by revenue, quantity, and number of orders.
   
- Dashboard (Power BI)
+ Dashboard (Power BI):
 The Power BI dashboard (pizza sales power bi dashboard.pdf) visually presents the analysis results.
 *	Key Insights:
 •	Total Revenue
